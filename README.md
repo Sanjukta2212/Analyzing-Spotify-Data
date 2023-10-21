@@ -21,7 +21,7 @@ Priyadarshini Raghavendra
 Sujay Shrivastava 
 
 License:
-This project is licensed under [License Name]. Please refer to the LICENSE.md file for details.
+This project is licensed under MIT License. Please refer to the LICENSE.md file for details.
 
 Acknowledgments:
 Special thanks to Dr. Shamsad Parvin who has supported our project.
